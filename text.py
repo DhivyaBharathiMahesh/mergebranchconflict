@@ -1,2 +1,2 @@
 name:"branch"
-location: none
+location: bangalore
